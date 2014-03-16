@@ -1,4 +1,4 @@
-Java8Experimente
-================
+Java 8 Experimente
+==================
 
-Diverse Experimente mit Java 8
+Diverse kleine Experimente mit Java 8...
